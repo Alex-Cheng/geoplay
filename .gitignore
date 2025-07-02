@@ -1,5 +1,6 @@
 build/*
-external
+#external
+ui/node_modules/*
 
 # Prerequisites
 *.d
